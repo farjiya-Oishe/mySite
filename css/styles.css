@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514e;
+}
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 80px;
+  color: #11999e;
+  line-height: 2;
+}
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 2.5rem;
+  color: #11999e;
+  font-weight: normal;
+}
+h3 {
+  color: #11999e;
+}
+a {
+  color: #11999e;
+}
+.middle-container {
+  margin: 50px auto;
+}
+.topContainer {
+  background-color: #eef2ff;
+}
+img {
+  color: #eef2ff;
+}
+.topCloud {
+  position: relative;
+  top: 100px;
+  right: 350px;
+}
+hr {
+  width: 50px;
+  color: gray;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 5%;
+}
+.profile-pic {
+  border: 1px solid #eef2ff;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+.introDescription {
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  font-size: 15px;
+  line-height: 2;
+}
+.contactMSG {
+  text-align: center;
+  width: 30%;
+  margin: 40px auto 60px;
+  font-size: 15px;
+  line-height: 2;
+}
+.skills-pic {
+  border: 1px solid #eef2ff;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.youtube {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottomCloud {
+  position: relative;
+  bottom: 200px;
+  left: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  background-color: #11999e;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: cadetblue;
+  color: white;
+}
+.bottom-container {
+  background-color: #11999e;
+  color: #eef2ff;
+  padding: 50px 0 20px;
+}
+.btn-footer {
+  color: white;
+  border: 1px solid #11999e;
+  padding: 7px;
+  border-radius: 10px;
+}
+.btn-footer:hover {
+  background-color: wheat;
+  color: cadetblue;
+}
+a {
+  text-decoration: none;
+}
